@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Ibrahim 👋<br>🎓 B.Sc Computer Science(2023–2026) – Pune University<br><br>💡 Full Stack Developer <br><br>🚀 About Me<br><br>🔍 I am currently working on MERN Stack<br>📊 Passionate about AI<br><br>
+#Hi, I'm Ibrahim 👋
+🎓 B.Sc Computer Science(2023–2026) – Pune University<br><br>💡 Full Stack Developer <br><br>🚀 About Me<br><br>🔍 I am currently working on MERN Stack<br>📊 Passionate about AI<br><br>
 
 
 ## 🌐 Socials:
